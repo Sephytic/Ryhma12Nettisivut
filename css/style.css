@@ -129,6 +129,7 @@ footer {
 }
 
 .yhteystiedot {
+<<<<<<< HEAD
   font-family: Arial, sans-serif;
 }
 >>>>>>> f203e54fa02c7ad4b9d5efe5c47cb22f9db26a05
@@ -158,3 +159,7 @@ footer {
   align-items: center;
 }
 
+=======
+    font-family: "Arial, sans-serif";
+}
+>>>>>>> 522c85777c7b735f8117f294ce4921bbaab26fe6
