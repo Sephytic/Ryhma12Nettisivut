@@ -107,11 +107,13 @@ footer {
 .hinnasto1 {
     font-family: "Arial, sans-serif";
     text-align: center;
-    margin: 20px;
+    font-size: 25px;
+    margin: 30px;
 }
 
 .hinnasto2 {
     font-family: "Arial, sans-serif";
     text-align: center;
-    margin: 20px;
+    font-size: 25px;
+    margin: 30px;
 }
