@@ -39,6 +39,7 @@ ul li {
   text-align: center;
   font-size: 18px;
   margin: 20px;
+  line-height: 1.6;
 }
 
 .container p {
@@ -118,8 +119,42 @@ footer {
     text-align: center;
     font-size: 25px;
     margin: 30px;
+<<<<<<< HEAD
     margin-top: 3rem;
     margin-bottom: 1rem;
 }
 
+
+=======
+}
+
+.yhteystiedot {
+  font-family: Arial, sans-serif;
+}
+>>>>>>> f203e54fa02c7ad4b9d5efe5c47cb22f9db26a05
+
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+
+.container img {
+  margin: 10px;
+  border-radius: 25px;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.palvelukuvat {
+  height: 300px;
+  width: 450px;
+  display: block;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
 
