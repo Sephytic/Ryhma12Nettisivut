@@ -15,6 +15,7 @@ header {
 header a {
   color: white;
   text-decoration: none;
+  font-size: 50px;
 }
 
 .valiotsikko {
@@ -69,4 +70,14 @@ header a {
 
 .nav a:hover {
     text-decoration: underline;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
