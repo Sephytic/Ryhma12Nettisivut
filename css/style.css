@@ -5,8 +5,22 @@ body {
 }
 
 header {
+  font-family: Arial, sans-serif;
   background-color: #333;
   color: white;
   padding: 20px;
   text-align: center;
+}
+
+.valiotsikko {
+  font-family: "Arial, sans-serif monospace";
+  text-align: center;
+  font-size: 32px;
+}
+
+.intro {
+  font-family: "Arial, sans-serif";
+  text-align: center;
+  font-size: 18px;
+  margin: 20px;
 }
