@@ -12,6 +12,11 @@ header {
   text-align: center;
 }
 
+header a {
+  color: white;
+  text-decoration: none;
+}
+
 .valiotsikko {
   font-family: "Arial, sans-serif monospace";
   text-align: center;
