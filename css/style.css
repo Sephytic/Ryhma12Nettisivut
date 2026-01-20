@@ -18,6 +18,16 @@ header a {
   font-size: 50px;
 }
 
+ul {
+  list-style-position: inside;
+  padding: 0;
+  text-align: center;
+}
+
+ul li {
+  margin: 8px 0;
+}
+
 .valiotsikko {
   font-family: "Arial, sans-serif monospace";
   text-align: center;
@@ -25,6 +35,13 @@ header a {
 }
 
 .intro {
+  font-family: "Arial, sans-serif";
+  text-align: center;
+  font-size: 18px;
+  margin: 20px;
+}
+
+.container p {
   font-family: "Arial, sans-serif";
   text-align: center;
   font-size: 18px;
@@ -71,6 +88,11 @@ header a {
 .nav a:hover {
     text-decoration: underline;
 }
+
+.yhteystiedot {
+  text-align: center;
+}
+
 
 footer {
     background-color: #333;
