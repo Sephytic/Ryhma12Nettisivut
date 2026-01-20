@@ -26,8 +26,8 @@ header {
 }
 
 .kuva { 
-  height: 550px;
-  width: 450px;
+  height: 400px;
+  width: 350px;
   display: block;
 
 }
@@ -35,6 +35,7 @@ header {
 .kuvat {
   height: 550px;
   width: 1500px;
+  gap: 20px;
   margin: auto;
   display: flex;
   justify-content: center;
