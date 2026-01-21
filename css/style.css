@@ -101,6 +101,11 @@ ul li {
   text-align: center;
 }
 
+.yhteystiedot li {
+  font-family: "Arial, sans-serif";
+  text-align: center;
+}
+
 
 footer {
     background-color: #333;
